@@ -1,2 +1,1 @@
-Fossil            10
-Second mistake!
+Fossil   10
